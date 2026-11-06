@@ -1,0 +1,3 @@
+SmartTransit Mysuru V4
+Separate online bus-specific ticketing, bus-stop wallet payment scanner, conductor single-use ticket scanner, and controller.
+Generated: 2026-11-05
